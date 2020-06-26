@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Alex Taehwan Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alex Taehwan Kim"
@@ -101,13 +101,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "tk020@vt.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/alex-kim-433713144/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Alex Taehwan Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Taehwan_Kim.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science Enthusiast"
-  location         : "Yongin, Korea"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
